@@ -6,9 +6,9 @@
 			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
 		</dir>
-		<info compressed="false">https://raw.githubusercontent.com/bokhoo/repository.unipishin/master/zips/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/bokhoo/repository.unipishin/master/zips/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/bokhoo/repository.unipishin/master/zips/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/bokhoo/unipishin/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/bokhoo/unipishin/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/bokhoo/unipishin/master/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Some static contents for testing</summary>
